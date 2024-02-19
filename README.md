@@ -17,6 +17,6 @@ Additional copies of this file (and the original KRITA format that has layers) c
 
 https://app.box.com/s/niopl2kxkte0yp044q5nzyngitmfossa
 
-My daughter and I hereby release this composition to the Public Domain.   Although acknowledgement would be appreciated, this art would not have been possible without the designers and engineers who made these systems in the first place :)  No permission is needed for re-use (partial or in full) - just like the tapetries of the old days.
+My daughter and I hereby release this composition to the Creative Commons.   Although acknowledgement would be appreciated, this art would not have been possible without the designers and engineers who made these systems in the first place :)  No permission is needed for re-use (partial or in full) - just like the tapetries of the old days.
 
 Happy Holidays! Dec. 2022
